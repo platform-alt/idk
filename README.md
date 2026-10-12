@@ -1,11 +1,11 @@
 # SP1 Kroužky
 
-Kód žáka: K07
+Kód žáka: 25
 
 ## Co bolí na původní tabulce
-* Kroužek, vedoucí, den, místnost a cena se opakují u každé přihlášky. Když Robotika zdraží, musím přepisovat čtyři řádky[cite: 1].
-* Stejná věc je pokaždé napsaná jinak: názvy kroužků (Robotika / robotika / ROBOTIKA), vedoucích (Horák / Mgr. Horák / Horak) i formát ceny (600 / 600 Kč)[cite: 1].
-* „Kolik kroužků škola nabízí?“ z tabulky spolehlivě nezjistím, protože názvy kroužků jsou psané různými způsoby a splývají s přihláškami[cite: 1].
+* Údaje o kroužku, jako je jeho cena, místnost nebo vedoucí, se bezdůvodně kopírují u každého žáka zvlášť, takže při jakékoliv změně musíme ručně přepisovat hned několik řádků.
+* Texty v tabulce trpí chaosem – názvy předmětů, jména lektorů i formáty cen jsou zapsané pokaždé jinak (různá velikost písmen, chybějící tituly nebo přidané měny).
+* Kvůli rozházeným a duplicitním záznamům nedokážeme z tabulky spolehlivě spočítat základní věci, například kolik unikátních kroužků škola vůbec nabízí.
 
 ## Tabulky a klíče
 
